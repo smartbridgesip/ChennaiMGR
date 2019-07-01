@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "139063561856",
+    "firebase_url": "https://intelligentdoor-17ab0.firebaseio.com",
+    "project_id": "intelligentdoor-17ab0",
+    "storage_bucket": "intelligentdoor-17ab0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139063561856:android:5a8a90df3580971f",
+        "android_client_info": {
+          "package_name": "com.example.intelligentdoor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139063561856-i1mpof5v9anlt5eprdi2d7d4insvdh4b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.intelligentdoor",
+            "certificate_hash": "e34ca4436e551da160fa2926c6c388cac106568d"
+          }
+        },
+        {
+          "client_id": "139063561856-tguvco6i9r9ia64a6fp3rfr4hoi7eiok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn9Zpdk1AApHYYm46-Mx96wU22gYymsus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139063561856-tguvco6i9r9ia64a6fp3rfr4hoi7eiok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
